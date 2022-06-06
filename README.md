@@ -1,1 +1,1 @@
-https://MaximNekrasov.github.io/rsschool-cv/cv
+https://MaximNekrasov.github.io
