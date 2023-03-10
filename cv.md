@@ -21,6 +21,5 @@ const dataReverse = function(data){
 
   }
 
-  return arrayBytes.reverse().join().split(',').map(v=>v*1);
-  
+  return arrayBytes.reverse().join().split(',').map(v=>v*1);  
 }
